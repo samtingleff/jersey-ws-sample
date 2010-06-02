@@ -1,4 +1,4 @@
-package com.rubicon.ifa.test;
+package com.rubicon.sample.test;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

@@ -1,7 +1,7 @@
-package com.rubicon.ifa.services.test;
+package com.rubicon.sample.services.test;
 
-import com.rubicon.ifa.test.BaseSpringTestCase;
 import com.rubicon.sample.services.EchoService;
+import com.rubicon.sample.test.BaseSpringTestCase;
 
 public class EchoServiceTestCase extends BaseSpringTestCase {
 
